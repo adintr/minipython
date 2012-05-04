@@ -18,10 +18,6 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Debug|x64 = Debug|x64
-		PGInstrument|Win32 = PGInstrument|Win32
-		PGInstrument|x64 = PGInstrument|x64
-		PGUpdate|Win32 = PGUpdate|Win32
-		PGUpdate|x64 = PGUpdate|x64
 		Release|Win32 = Release|Win32
 		Release|x64 = Release|x64
 	EndGlobalSection
@@ -30,14 +26,6 @@ Global
 		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.Debug|Win32.Build.0 = Debug|Win32
 		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.Debug|x64.ActiveCfg = Debug|x64
 		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.Debug|x64.Build.0 = Debug|x64
-		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.PGInstrument|Win32.ActiveCfg = PGInstrument|Win32
-		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.PGInstrument|Win32.Build.0 = PGInstrument|Win32
-		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.PGInstrument|x64.ActiveCfg = PGInstrument|x64
-		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.PGInstrument|x64.Build.0 = PGInstrument|x64
-		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.PGUpdate|Win32.ActiveCfg = PGUpdate|Win32
-		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.PGUpdate|Win32.Build.0 = PGUpdate|Win32
-		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.PGUpdate|x64.ActiveCfg = PGUpdate|x64
-		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.PGUpdate|x64.Build.0 = PGUpdate|x64
 		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.Release|Win32.ActiveCfg = Release|Win32
 		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.Release|Win32.Build.0 = Release|Win32
 		{B11D750F-CD1F-4A96-85CE-E69A5C5259F9}.Release|x64.ActiveCfg = Release|x64
@@ -46,14 +34,6 @@ Global
 		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|Win32.Build.0 = Debug|Win32
 		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|x64.ActiveCfg = Debug|x64
 		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Debug|x64.Build.0 = Debug|x64
-		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|Win32.ActiveCfg = PGInstrument|Win32
-		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|Win32.Build.0 = PGInstrument|Win32
-		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|x64.ActiveCfg = PGInstrument|x64
-		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGInstrument|x64.Build.0 = PGInstrument|x64
-		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|Win32.ActiveCfg = PGUpdate|Win32
-		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|Win32.Build.0 = PGUpdate|Win32
-		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|x64.ActiveCfg = PGUpdate|x64
-		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.PGUpdate|x64.Build.0 = PGUpdate|x64
 		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|Win32.ActiveCfg = Release|Win32
 		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|Win32.Build.0 = Release|Win32
 		{CF7AC3D1-E2DF-41D2-BEA6-1E2556CDEA26}.Release|x64.ActiveCfg = Release|x64
@@ -62,14 +42,6 @@ Global
 		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.Debug|Win32.Build.0 = Debug|Win32
 		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.Debug|x64.ActiveCfg = Debug|x64
 		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.Debug|x64.Build.0 = Debug|x64
-		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.PGInstrument|Win32.ActiveCfg = PGInstrument|Win32
-		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.PGInstrument|Win32.Build.0 = PGInstrument|Win32
-		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.PGInstrument|x64.ActiveCfg = PGInstrument|x64
-		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.PGInstrument|x64.Build.0 = PGInstrument|x64
-		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.PGUpdate|Win32.ActiveCfg = PGUpdate|Win32
-		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.PGUpdate|Win32.Build.0 = PGUpdate|Win32
-		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.PGUpdate|x64.ActiveCfg = PGUpdate|x64
-		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.PGUpdate|x64.Build.0 = PGUpdate|x64
 		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.Release|Win32.ActiveCfg = Release|Win32
 		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.Release|Win32.Build.0 = Release|Win32
 		{F4229CC3-873C-49AE-9729-DD308ED4CD4A}.Release|x64.ActiveCfg = Release|x64
