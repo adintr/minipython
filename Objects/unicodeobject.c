@@ -1144,12 +1144,12 @@ PyObject *PyUnicode_FromEncodedObject(register PyObject *obj,
         s = PyString_AS_STRING(obj);
         len = PyString_GET_SIZE(obj);
     }
-    else if (PyByteArray_Check(obj)) {
-        /* Python 2.x specific */
-        PyErr_Format(PyExc_TypeError,
-                     "decoding bytearray is not supported");
-        return NULL;
-    }
+    //else if (PyByteArray_Check(obj)) {
+    //    /* Python 2.x specific */
+    //    PyErr_Format(PyExc_TypeError,
+    //                 "decoding bytearray is not supported");
+    //    return NULL;
+    //} 
     else if (PyObject_AsCharBuffer(obj, &s, &len)) {
         /* Overwrite the error message with something more useful in
            case of a TypeError. */

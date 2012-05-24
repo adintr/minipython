@@ -127,7 +127,7 @@ PyAPI_FUNC(int) _PyFrame_Init(void);
 PyAPI_FUNC(int) _PyInt_Init(void);
 PyAPI_FUNC(int) _PyLong_Init(void);
 PyAPI_FUNC(void) _PyFloat_Init(void);
-PyAPI_FUNC(int) PyByteArray_Init(void);
+//PyAPI_FUNC(int) PyByteArray_Init(void);
 
 /* Various internal finalizers */
 PyAPI_FUNC(void) _PyExc_Fini(void);
@@ -143,7 +143,7 @@ PyAPI_FUNC(void) PyString_Fini(void);
 PyAPI_FUNC(void) PyInt_Fini(void);
 PyAPI_FUNC(void) PyFloat_Fini(void);
 PyAPI_FUNC(void) PyOS_FiniInterrupts(void);
-PyAPI_FUNC(void) PyByteArray_Fini(void);
+//PyAPI_FUNC(void) PyByteArray_Fini(void);
 
 /* Stuff with no proper home (yet) */
 PyAPI_FUNC(char *) PyOS_Readline(FILE *, FILE *, char *);

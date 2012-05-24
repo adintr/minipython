@@ -187,8 +187,8 @@ Py_InitializeEx(int install_sigs)
     if (!_PyLong_Init())
         Py_FatalError("Py_Initialize: can't init longs");
 
-    if (!PyByteArray_Init())
-        Py_FatalError("Py_Initialize: can't init bytearray");
+    //if (!PyByteArray_Init())
+    //    Py_FatalError("Py_Initialize: can't init bytearray");
 
     _PyFloat_Init();
 
@@ -513,7 +513,7 @@ Py_Finalize(void)
     PyList_Fini();
     PySet_Fini();
     PyString_Fini();
-    PyByteArray_Fini();
+    //PyByteArray_Fini();
     PyInt_Fini();
     PyFloat_Fini();
     PyDict_Fini();

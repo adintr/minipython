@@ -930,14 +930,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Objects\bytearrayobject.c"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Objects\bytes_methods.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Objects\capsule.c"
 				>
 			</File>

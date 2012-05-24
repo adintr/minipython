@@ -1505,12 +1505,12 @@ builtin_ord(PyObject *self, PyObject* obj)
             ord = (long)((unsigned char)*PyString_AS_STRING(obj));
             return PyInt_FromLong(ord);
         }
-    } else if (PyByteArray_Check(obj)) {
+    /*} else if (PyByteArray_Check(obj)) {
         size = PyByteArray_GET_SIZE(obj);
         if (size == 1) {
             ord = (long)((unsigned char)*PyByteArray_AS_STRING(obj));
             return PyInt_FromLong(ord);
-        }
+        } */
 
 #ifdef Py_USING_UNICODE
     } else if (PyUnicode_Check(obj)) {
@@ -2688,7 +2688,7 @@ _PyBuiltin_Init(void)
     SETBUILTIN("basestring",            &PyBaseString_Type);
     SETBUILTIN("bool",                  &PyBool_Type);
     SETBUILTIN("memoryview",        &PyMemoryView_Type);
-    SETBUILTIN("bytearray",             &PyByteArray_Type);
+    //SETBUILTIN("bytearray",             &PyByteArray_Type);
     SETBUILTIN("bytes",                 &PyString_Type);
     SETBUILTIN("buffer",                &PyBuffer_Type);
     SETBUILTIN("classmethod",           &PyClassMethod_Type);
