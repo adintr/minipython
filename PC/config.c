@@ -99,7 +99,7 @@ struct _inittab _PyImport_Inittab[] = {
     //{"thread", initthread},
 #endif
     {"cStringIO", initcStringIO},
-    {"cPickle", initcPickle},
+    //{"cPickle", initcPickle},
 #ifdef WIN32
     //{"msvcrt", initmsvcrt},
     {"_locale", init_locale},
@@ -156,7 +156,7 @@ struct _inittab _PyImport_Inittab[] = {
     {"exceptions", NULL},
     {"_warnings", _PyWarnings_Init},
 
-    {"_io", init_io},
+    //{"_io", init_io},
 
     /* Sentinel */
     {0, 0}
