@@ -98,7 +98,7 @@ struct _inittab _PyImport_Inittab[] = {
 #ifdef WITH_THREAD
     //{"thread", initthread},
 #endif
-    {"cStringIO", initcStringIO},
+    //{"cStringIO", initcStringIO},
     //{"cPickle", initcPickle},
 #ifdef WIN32
     //{"msvcrt", initmsvcrt},
@@ -110,7 +110,7 @@ struct _inittab _PyImport_Inittab[] = {
     {"_codecs", init_codecs},
     {"_weakref", init_weakref},
     //{"_hotshot", init_hotshot},
-    {"_random", init_random},
+    //{"_random", init_random},
     //{"_bisect", init_bisect},
     {"_heapq", init_heapq},
     {"_lsprof", init_lsprof},
@@ -123,7 +123,7 @@ struct _inittab _PyImport_Inittab[] = {
     {"parser", initparser},
     //{"_winreg", init_winreg},
     {"_struct", init_struct},
-    {"datetime", initdatetime},
+    //{"datetime", initdatetime},
     {"_functools", init_functools},
     //{"_json", init_json},
 

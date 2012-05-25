@@ -410,14 +410,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Include\cStringIO.h"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Include\datetime.h"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Include\descrobject.h"
 				>
 			</File>
@@ -734,10 +726,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Modules\_randommodule.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Modules\_sre.c"
 				>
 			</File>
@@ -747,14 +735,6 @@
 			</File>
 			<File
 				RelativePath="..\..\Modules\_weakref.c"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Modules\cStringIO.c"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Modules\datetimemodule.c"
 				>
 			</File>
 			<File
