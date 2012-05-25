@@ -698,10 +698,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Modules\_collectionsmodule.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Modules\_functoolsmodule.c"
 				>
 			</File>
@@ -714,10 +710,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Modules\_lsprof.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Modules\_math.c"
 				>
 			</File>
@@ -727,10 +719,6 @@
 			</File>
 			<File
 				RelativePath="..\..\Modules\_sre.c"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Modules\_struct.c"
 				>
 			</File>
 			<File
