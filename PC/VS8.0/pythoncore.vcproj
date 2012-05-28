@@ -738,10 +738,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Modules\posixmodule.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Modules\rotatingtree.c"
 				>
 			</File>
