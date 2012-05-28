@@ -494,10 +494,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Include\memoryobject.h"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Include\metagrammar.h"
 				>
 			</File>
@@ -967,10 +963,6 @@
 			</File>
 			<File
 				RelativePath="..\..\Objects\longobject.c"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Objects\memoryobject.c"
 				>
 			</File>
 			<File
