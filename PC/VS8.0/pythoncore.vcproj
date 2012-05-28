@@ -702,23 +702,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Modules\_heapqmodule.c"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Modules\_localemodule.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Modules\_math.c"
 				>
 			</File>
 			<File
 				RelativePath="..\..\Modules\_math.h"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Modules\_sre.c"
 				>
 			</File>
 			<File
@@ -771,10 +759,6 @@
 			</File>
 			<File
 				RelativePath="..\..\Modules\symtablemodule.c"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Modules\timemodule.c"
 				>
 			</File>
 			<File

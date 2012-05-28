@@ -94,7 +94,7 @@ struct _inittab _PyImport_Inittab[] = {
     //{"_sha256", init_sha256},
     //{"_sha512", init_sha512},
     {"strop", initstrop},
-    {"time", inittime},
+    //{"time", inittime},
 #ifdef WITH_THREAD
     //{"thread", initthread},
 #endif
@@ -102,7 +102,7 @@ struct _inittab _PyImport_Inittab[] = {
     //{"cPickle", initcPickle},
 #ifdef WIN32
     //{"msvcrt", initmsvcrt},
-    {"_locale", init_locale},
+    //{"_locale", init_locale},
 #endif
     /* XXX Should _subprocess go in a WIN32 block?  not WIN64? */
     //{"_subprocess", init_subprocess},
@@ -112,14 +112,14 @@ struct _inittab _PyImport_Inittab[] = {
     //{"_hotshot", init_hotshot},
     //{"_random", init_random},
     //{"_bisect", init_bisect},
-    {"_heapq", init_heapq},
+    //{"_heapq", init_heapq},
     //{"_lsprof", init_lsprof},
     {"itertools", inititertools},
     //{"_collections", init_collections},
     {"_symtable", init_symtable},
     //{"mmap", initmmap},
     //{"_csv", init_csv},
-    {"_sre", init_sre},
+    //{"_sre", init_sre},
     {"parser", initparser},
     //{"_winreg", init_winreg},
     //{"_struct", init_struct},
