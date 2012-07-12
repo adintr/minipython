@@ -702,10 +702,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Modules\_weakref.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Modules\errnomodule.c"
 				>
 			</File>

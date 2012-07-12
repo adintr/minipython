@@ -108,7 +108,7 @@ struct _inittab _PyImport_Inittab[] = {
     //{"_subprocess", init_subprocess},
 
     {"_codecs", init_codecs},
-    {"_weakref", init_weakref},
+    //{"_weakref", init_weakref},
     //{"_hotshot", init_hotshot},
     //{"_random", init_random},
     //{"_bisect", init_bisect},
