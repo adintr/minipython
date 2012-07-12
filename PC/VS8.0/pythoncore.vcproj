@@ -726,14 +726,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Modules\rotatingtree.c"
-				>
-			</File>
-			<File
-				RelativePath="..\..\Modules\rotatingtree.h"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Modules\stropmodule.c"
 				>
 			</File>
