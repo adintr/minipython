@@ -114,7 +114,7 @@ struct _inittab _PyImport_Inittab[] = {
     //{"_bisect", init_bisect},
     //{"_heapq", init_heapq},
     //{"_lsprof", init_lsprof},
-    {"itertools", inititertools},
+    //{"itertools", inititertools},
     //{"_collections", init_collections},
     {"_symtable", init_symtable},
     //{"mmap", initmmap},

@@ -714,10 +714,6 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\Modules\itertoolsmodule.c"
-				>
-			</File>
-			<File
 				RelativePath="..\..\Modules\main.c"
 				>
 			</File>
