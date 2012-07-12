@@ -124,7 +124,7 @@ struct _inittab _PyImport_Inittab[] = {
     //{"_winreg", init_winreg},
     //{"_struct", init_struct},
     //{"datetime", initdatetime},
-    {"_functools", init_functools},
+    //{"_functools", init_functools},
     //{"_json", init_json},
 
     //{"xxsubtype", initxxsubtype},

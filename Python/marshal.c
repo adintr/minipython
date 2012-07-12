@@ -1277,7 +1277,7 @@ The file must be an open file object such as sys.stdout or returned by\n\
 open() or os.popen(). It must be opened in binary mode ('wb' or 'w+b').\n\
 \n\
 If the value has (or contains an object that has) an unsupported type, a\n\
-ValueError exception is raised â€” but garbage data will also be written\n\
+ValueError exception is raised â€?but garbage data will also be written\n\
 to the file. The object will not be properly read back by load()\n\
 \n\
 New in version 2.4: The version argument indicates the data format that\n\
