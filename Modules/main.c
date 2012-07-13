@@ -27,9 +27,7 @@
 
 #include "pygetopt.h"
 
-#define COPYRIGHT \
-    "Type \"help\", \"copyright\", \"credits\" or \"license\" " \
-    "for more information."
+#define COPYRIGHT  "A Mini Python for embed to C++, Base on 2.7.2  [www.adintr.com]"
 
 #ifdef __cplusplus
 extern "C" {

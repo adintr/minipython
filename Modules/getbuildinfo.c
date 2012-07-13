@@ -33,10 +33,10 @@
 #define HGVERSION ""
 #endif
 #ifndef HGTAG
-#define HGTAG ""
+#define HGTAG "adintr.com"
 #endif
 #ifndef HGBRANCH
-#define HGBRANCH ""
+#define HGBRANCH "adintr.com"
 #endif
 
 const char *
