@@ -1,0 +1,9 @@
+*.ncb
+*.user
+*.suo
+*.sdf
+*.opensdf
+PC/VS8.0/*/
+PC/VS14.0/*/
+bin/
+lib/
